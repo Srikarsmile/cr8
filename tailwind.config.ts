@@ -10,13 +10,13 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          purple: "#7C3AED",
-          pink: "#EC4899",
-          orange: "#F97316",
-          teal: "#14B8A6",
-          yellow: "#EAB308",
-          dark: "#0F172A",
-          light: "#F8FAFC",
+          purple: "#6D28D9",
+          pink: "#F43F5E",
+          orange: "#E85D04",
+          teal: "#0891B2",
+          yellow: "#FBBF24",
+          dark: "#111827",
+          light: "#FAFAF9",
         },
       },
       fontFamily: {
