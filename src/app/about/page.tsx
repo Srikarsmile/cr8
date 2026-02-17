@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About – CRE8 Pathways",
+  title: "About - CRE8 Pathways",
   description:
     "Learn about CRE8 Pathways, our mission and why we exist.",
 };
@@ -32,8 +32,8 @@ export default function AboutPage() {
           <p className="text-gray-600 leading-relaxed text-lg">
             CRE8 Pathways exists to bridge the gap between young people and the
             careers they deserve. We believe that talent is everywhere, but
-            opportunity isn&apos;t — and we&apos;re here to change that. We connect
-            18–24 year olds to practical career pathways, real opportunities,
+            opportunity isn&apos;t - and we&apos;re here to change that. We connect
+            18-24 year olds to practical career pathways, real opportunities,
             and the soft skills training they need to succeed.
           </p>
         </div>
@@ -55,8 +55,8 @@ export default function AboutPage() {
             </p>
             <p>
               CRE8 Pathways was created to fix that. We focus on sectors where
-              there are genuine opportunities — digital and creative, beauty,
-              construction and entrepreneurship — and we make the entry points
+              there are genuine opportunities - digital and creative, beauty,
+              construction and entrepreneurship - and we make the entry points
               clear, accessible and achievable.
             </p>
             <p>
@@ -77,8 +77,8 @@ export default function AboutPage() {
               Our Vision
             </h2>
             <p className="text-gray-700 leading-relaxed text-lg">
-              A future where every young person — regardless of background,
-              qualifications or postcode — has clear, accessible pathways to a
+              A future where every young person - regardless of background,
+              qualifications or postcode - has clear, accessible pathways to a
               career that excites them and a life that fulfils them.
             </p>
           </div>
@@ -106,7 +106,7 @@ export default function AboutPage() {
                 Practical First
               </h3>
               <p className="text-sm text-gray-600">
-                Everything we do is designed to be useful — not just
+                Everything we do is designed to be useful - not just
                 inspirational. Practical steps, real opportunities, actual next
                 moves.
               </p>
@@ -125,7 +125,7 @@ export default function AboutPage() {
                 Inclusive & Accessible
               </h3>
               <p className="text-sm text-gray-600">
-                No matter your background, qualifications or starting point —
+                No matter your background, qualifications or starting point,
                 there&apos;s a pathway for you here.
               </p>
             </div>

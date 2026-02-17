@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Soft Life Loading – CRE8 Pathways",
+  title: "Soft Life Loading - CRE8 Pathways",
   description:
     "Build the confidence and soft skills you need to access opportunities. Interview prep, CV tips, communication skills and more.",
 };
@@ -11,7 +11,7 @@ const skillAreas = [
   {
     title: "Interview Skills",
     description:
-      "Learn how to prepare, what to say, how to handle nerves, and how to make a strong impression — even if it's your first ever interview.",
+      "Learn how to prepare, what to say, how to handle nerves, and how to make a strong impression - even if it's your first ever interview.",
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -51,7 +51,7 @@ const skillAreas = [
   {
     title: "Professional Behaviour",
     description:
-      "Punctuality, dress codes, email etiquette, team dynamics — the unwritten rules that nobody teaches you but everybody expects you to know.",
+      "Punctuality, dress codes, email etiquette, team dynamics - the unwritten rules that nobody teaches you but everybody expects you to know.",
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
@@ -61,7 +61,7 @@ const skillAreas = [
   {
     title: "Time Management",
     description:
-      "Prioritising tasks, meeting deadlines, balancing work and life, and managing your energy — not just your hours.",
+      "Prioritising tasks, meeting deadlines, balancing work and life, and managing your energy - not just your hours.",
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -96,7 +96,7 @@ const resources = [
   {
     title: "First Day Checklist",
     description:
-      "Everything you need to know before your first day at work — what to wear, what to bring, and how to make a good impression.",
+      "Everything you need to know before your first day at work - what to wear, what to bring, and how to make a good impression.",
     tag: "Checklist",
   },
   {
@@ -129,7 +129,7 @@ export default function SoftLifeLoadingPage() {
             Soft Life Loading
           </h1>
           <p className="text-lg text-brand-dark/80 max-w-2xl mx-auto">
-            The skills they don&apos;t teach you in school — but every employer expects
+            The skills they don&apos;t teach you in school - but every employer expects
             you to have. Build your confidence, sharpen your soft skills, and
             get ready to level up.
           </p>
@@ -144,12 +144,12 @@ export default function SoftLifeLoadingPage() {
           </h2>
           <p className="text-gray-600 leading-relaxed mb-4">
             Soft Life Loading is CRE8 Pathways&apos; employability and soft skills
-            arm. It&apos;s designed to help young adults aged 18–24 build the
+            arm. It&apos;s designed to help young adults aged 18-24 build the
             confidence, communication skills and professional readiness they
             need to actually access and succeed in opportunities.
           </p>
           <p className="text-gray-600 leading-relaxed">
-            Because getting the interview is only half the battle — you need to
+            Because getting the interview is only half the battle - you need to
             know how to show up, speak up and stand out. Soft Life Loading gives
             you the tools to do exactly that.
           </p>
@@ -189,7 +189,7 @@ export default function SoftLifeLoadingPage() {
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
             Practical, youth-friendly resources to help you prepare for the
-            world of work. No jargon, no lectures — just real stuff that helps.
+            world of work. No jargon, no lectures - just real stuff that helps.
           </p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {resources.map((resource) => (

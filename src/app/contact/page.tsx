@@ -117,7 +117,7 @@ export default function ContactPage() {
                   className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:ring-2 focus:ring-brand-purple focus:border-transparent"
                 >
                   <option value="">Select one...</option>
-                  <option value="young-person">Young Person (18–24)</option>
+                  <option value="young-person">Young Person (18-24)</option>
                   <option value="employer">Employer</option>
                   <option value="training-provider">Training Provider</option>
                   <option value="community-partner">Community Partner</option>

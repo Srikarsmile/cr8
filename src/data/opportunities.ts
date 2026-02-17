@@ -21,7 +21,7 @@ export const defaultOpportunities: Opportunity[] = [
     title: "Junior Web Developer",
     organisation: "Creative Digital Agency",
     location: "London",
-    pay: "£22,000 – £26,000",
+    pay: "£22,000 - £26,000",
     sector: "digital-creative",
     type: "Job",
     whatYoullDo:
@@ -46,7 +46,7 @@ export const defaultOpportunities: Opportunity[] = [
     whatYoullDo:
       "Learn social media management, content creation, email marketing and basic analytics. Support real campaigns from day one.",
     whatYouNeed:
-      "Interest in social media and marketing. Good communication skills. No experience needed — full training provided.",
+      "Interest in social media and marketing. Good communication skills. No experience needed - full training provided.",
     whyItsGood:
       "Earn while you learn. Gain a Level 3 qualification. Real portfolio pieces from live campaigns.",
     howToApply: "Apply through the MediaBoost careers page",
@@ -65,7 +65,7 @@ export const defaultOpportunities: Opportunity[] = [
     whatYoullDo:
       "Complete a 12-week nail technician course covering gel, acrylic, nail art and hygiene standards. Includes business basics for going self-employed.",
     whatYouNeed:
-      "Aged 18–24. Passion for beauty. No prior qualifications needed.",
+      "Aged 18-24. Passion for beauty. No prior qualifications needed.",
     whyItsGood:
       "Fully funded training. Industry-recognised certification. Support to start your own business.",
     howToApply: "Register at glowacademy.example.com/apply",
@@ -122,7 +122,7 @@ export const defaultOpportunities: Opportunity[] = [
     whatYoullDo:
       "8-week intensive carpentry programme. Learn joinery, woodworking, reading blueprints and workshop safety.",
     whatYouNeed:
-      "Aged 18–24. Interest in hands-on work. No experience required.",
+      "Aged 18-24. Interest in hands-on work. No experience required.",
     whyItsGood:
       "Free training with tools provided. Job placement support after completion. CSCS card included.",
     howToApply: "Sign up at skillsforge.example.com",
@@ -141,7 +141,7 @@ export const defaultOpportunities: Opportunity[] = [
     whatYoullDo:
       "Access funding, mentoring and business planning support to start your own business or become self-employed.",
     whatYouNeed:
-      "Aged 18–30. A business idea (doesn't need to be fully formed). Commitment to making it work.",
+      "Aged 18-30. A business idea (doesn't need to be fully formed). Commitment to making it work.",
     whyItsGood:
       "Financial support to get started. One-to-one mentoring. Access to a network of young entrepreneurs.",
     howToApply: "Visit princes-trust.org.uk/support",
@@ -173,7 +173,7 @@ export const defaultOpportunities: Opportunity[] = [
     title: "Plumbing & Heating Apprentice",
     organisation: "HeatWorks Services",
     location: "Sheffield",
-    pay: "£16,000 – £19,000",
+    pay: "£16,000 - £19,000",
     sector: "construction",
     type: "Apprenticeship",
     whatYoullDo:

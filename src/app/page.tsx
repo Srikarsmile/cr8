@@ -12,7 +12,7 @@ const pathways = [
   {
     title: "Digital & Creative",
     description:
-      "From web development to graphic design, social media to content creation — the digital world is yours.",
+      "From web development to graphic design, social media to content creation - the digital world is yours.",
     href: "/pathways/digital-creative",
     color: "text-brand-purple",
     icon: (
@@ -24,7 +24,7 @@ const pathways = [
   {
     title: "Beauty",
     description:
-      "Hair, nails, skincare, makeup — train in a booming industry and build your own brand.",
+      "Hair, nails, skincare, makeup - train in a booming industry and build your own brand.",
     href: "/pathways/beauty",
     color: "text-brand-pink",
     icon: (
@@ -90,8 +90,8 @@ export default function Home() {
             <span className="gradient-text">Create your path.</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-10">
-            CRE8 Pathways connects 18–24 year olds to real careers in digital,
-            creative, beauty, construction and entrepreneurship. No fluff — just
+            CRE8 Pathways connects 18-24 year olds to real careers in digital,
+            creative, beauty, construction and entrepreneurship. No fluff - just
             real next steps.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -119,7 +119,7 @@ export default function Home() {
               Choose Your Pathway
             </h2>
             <p className="text-gray-600 max-w-xl mx-auto">
-              Five routes to real opportunities. Pick the one that fits you — or
+              Five routes to real opportunities. Pick the one that fits you - or
               explore them all.
             </p>
           </div>
@@ -139,7 +139,7 @@ export default function Home() {
               Featured Opportunities
             </h2>
             <p className="text-gray-600 max-w-xl mx-auto">
-              Jobs, apprenticeships, training and funding — updated regularly.
+              Jobs, apprenticeships, training and funding - updated regularly.
             </p>
           </div>
           {featured.length > 0 ? (

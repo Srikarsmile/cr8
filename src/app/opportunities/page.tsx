@@ -62,7 +62,7 @@ export default function OpportunitiesPage() {
             Opportunities
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            Jobs, apprenticeships, training and funding — all in one place.
+            Jobs, apprenticeships, training and funding - all in one place.
             Filter by what matters to you and find your next step.
           </p>
         </div>

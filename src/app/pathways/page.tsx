@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Pathways – CRE8 Pathways",
+  title: "Pathways - CRE8 Pathways",
   description:
     "Explore five career pathways: Digital & Creative, Beauty, Construction, Entrepreneurship, and Soft Life Loading.",
 };
@@ -11,7 +11,7 @@ const pathways = [
   {
     title: "Digital & Creative",
     description:
-      "Web development, graphic design, social media management, content creation, UX/UI design, video production and more. The digital economy is booming — and there's space for you.",
+      "Web development, graphic design, social media management, content creation, UX/UI design, video production and more. The digital economy is booming - and there's space for you.",
     href: "/pathways/digital-creative",
     gradient: "from-brand-purple to-purple-600",
     icon: (
@@ -59,7 +59,7 @@ const pathways = [
   {
     title: "Soft Life Loading",
     description:
-      "Not a career path — it's what makes every path work. Build interview confidence, craft your CV, learn workplace skills and get mentally ready to win.",
+      "Not a career path - it's what makes every path work. Build interview confidence, craft your CV, learn workplace skills and get mentally ready to win.",
     href: "/soft-life-loading",
     gradient: "from-brand-yellow to-yellow-500",
     icon: (

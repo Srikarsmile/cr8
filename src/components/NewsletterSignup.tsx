@@ -21,7 +21,7 @@ export default function NewsletterSignup() {
         </h2>
         <p className="text-white/80 mb-8">
           Get the latest opportunities, events and resources straight to your
-          inbox. No spam — just real stuff that matters.
+          inbox. No spam - just real stuff that matters.
         </p>
 
         {submitted ? (

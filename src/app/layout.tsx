@@ -4,9 +4,9 @@ import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CRE8 Pathways – Build Skills. Access Opportunities. Create Your Path.",
+  title: "CRE8 Pathways - Build Skills. Access Opportunities. Create Your Path.",
   description:
-    "CRE8 Pathways is a youth-focused careers platform supporting 18–24-year-olds to access digital, creative, beauty, construction and entrepreneurship careers.",
+    "CRE8 Pathways is a youth-focused careers platform supporting 18-24-year-olds to access digital, creative, beauty, construction and entrepreneurship careers.",
   keywords: [
     "youth careers",
     "apprenticeships",

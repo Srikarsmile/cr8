@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Entrepreneurship Hub – CRE8 Pathways",
+  title: "Entrepreneurship Hub - CRE8 Pathways",
   description:
     "Learn how to start a business, go self-employed, price your services, find funding and build something of your own.",
 };
@@ -11,7 +11,7 @@ const sections = [
   {
     title: "What is Self-Employment?",
     content:
-      "Being self-employed means you work for yourself instead of an employer. You find your own clients, set your own prices and manage your own time. It could be freelancing, running a business from home, offering a service, selling products online — the options are endless. You don't need a degree, a big budget or a perfect plan. You just need an idea and the willingness to start.",
+      "Being self-employed means you work for yourself instead of an employer. You find your own clients, set your own prices and manage your own time. It could be freelancing, running a business from home, offering a service, selling products online - the options are endless. You don't need a degree, a big budget or a perfect plan. You just need an idea and the willingness to start.",
   },
   {
     title: "How to Register as Self-Employed",
@@ -21,12 +21,12 @@ const sections = [
   {
     title: "Basic Pricing Guidance",
     content:
-      "Pricing is one of the hardest things to get right. Start by researching what others in your area charge for similar services. Factor in your costs (materials, travel, tools), the time it takes, and what you need to earn. Don't underprice yourself — your time has value. A good starting point: work out your hourly rate, then add your costs and a margin. You can always adjust as you grow.",
+      "Pricing is one of the hardest things to get right. Start by researching what others in your area charge for similar services. Factor in your costs (materials, travel, tools), the time it takes, and what you need to earn. Don't underprice yourself - your time has value. A good starting point: work out your hourly rate, then add your costs and a margin. You can always adjust as you grow.",
   },
   {
     title: "Marketing Basics",
     content:
-      "You don't need a massive budget to market yourself. Start with social media — Instagram, TikTok and LinkedIn are free and powerful. Post consistently, show your work, share your journey and engage with your audience. Word of mouth is huge — ask happy customers to recommend you. Create a simple website or portfolio. Use free tools like Canva for graphics and Google Business Profile to show up in local searches.",
+      "You don't need a massive budget to market yourself. Start with social media - Instagram, TikTok and LinkedIn are free and powerful. Post consistently, show your work, share your journey and engage with your audience. Word of mouth is huge - ask happy customers to recommend you. Create a simple website or portfolio. Use free tools like Canva for graphics and Google Business Profile to show up in local searches.",
   },
 ];
 
@@ -34,12 +34,12 @@ const fundingOptions = [
   {
     title: "The Prince's Trust Enterprise Programme",
     description:
-      "Mentoring, training and funding of up to £5,000 for 18–30 year olds starting a business.",
+      "Mentoring, training and funding of up to £5,000 for 18-30 year olds starting a business.",
   },
   {
     title: "Start Up Loans",
     description:
-      "Government-backed personal loans of £500–£25,000 for new businesses, with free mentoring included.",
+      "Government-backed personal loans of 500-£25,000 for new businesses, with free mentoring included.",
   },
   {
     title: "Universal Credit & Self-Employment",
@@ -55,13 +55,13 @@ const fundingOptions = [
 
 const checklist = [
   "Write down your business idea in one sentence",
-  "Research your target market — who will pay for this?",
+  "Research your target market - who will pay for this?",
   "Work out your basic costs and pricing",
   "Register as self-employed with HMRC",
   "Set up a business bank account (most are free)",
   "Create your social media profiles",
   "Build a simple portfolio or website",
-  "Tell people what you do — start networking",
+  "Tell people what you do - start networking",
   "Keep records of all income and expenses",
   "Look into funding and support options",
 ];
